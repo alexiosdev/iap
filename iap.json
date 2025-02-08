@@ -14,11 +14,22 @@
         "token": "QzdCMjhBMjctQTk0RC00QzBFLTlEREQtMUY2N0RBMDgzQkQ3",
         "update_date": "2025-01-08"
       }
-      
+    ],
+    "disableNativeAds": [
+      {
+        "token": "ZmYxMTExMThmOTA1NDlhZg",
+        "update_date": "2025-01-01"
+      }
     ]
   },
   "englishtest": {
     "removeads": [
+      {
+        "token": "ZmYxMTExMThmOTA1NDlhZg",
+        "update_date": "2025-01-01"
+      }
+    ],
+    "disableNativeAds": [
       {
         "token": "ZmYxMTExMThmOTA1NDlhZg",
         "update_date": "2025-01-01"
