@@ -22,6 +22,52 @@
       }
     ]
   },
+  "Voca600": {
+    "removeads": [
+      {
+        "token": "OEM0REIyMTQtNDZDMC00QzRBLTg3NTEtODRFMzVGN0Q4Qzcx",
+        "name": "Nguyen Quang Trieu",
+        "update_date": "2025-01-10"
+      },
+      {
+        "token": "ZmYxMTExMThmOTA1NDlhZg",
+        "update_date": "2025-01-01"
+      },
+      {
+        "token": "QzdCMjhBMjctQTk0RC00QzBFLTlEREQtMUY2N0RBMDgzQkQ3",
+        "update_date": "2025-01-08"
+      }
+    ],
+    "disableNativeAds": [
+      {
+        "token": "ZmYxMTExMThmOTA1NDlhZg",
+        "update_date": "2025-01-01"
+      }
+    ]
+  },
+  "egrammar": {
+    "removeads": [
+      {
+        "token": "OEM0REIyMTQtNDZDMC00QzRBLTg3NTEtODRFMzVGN0Q4Qzcx",
+        "name": "Nguyen Quang Trieu",
+        "update_date": "2025-01-10"
+      },
+      {
+        "token": "ZmYxMTExMThmOTA1NDlhZg",
+        "update_date": "2025-01-01"
+      },
+      {
+        "token": "QzdCMjhBMjctQTk0RC00QzBFLTlEREQtMUY2N0RBMDgzQkQ3",
+        "update_date": "2025-01-08"
+      }
+    ],
+    "disableNativeAds": [
+      {
+        "token": "ZmYxMTExMThmOTA1NDlhZg",
+        "update_date": "2025-01-01"
+      }
+    ]
+  },
   "EVocabulary": {
     "removeads": [
       {
