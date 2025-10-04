@@ -116,5 +116,21 @@
         "update_date": "2025-01-01"
       }
     ]
+  },
+  "englishtestnew": {
+    "isShowAds": false,
+    "isHideAds": false,
+    "removeads": [
+      {
+        "token": "ZmYxMTExMThmOTA1NDlhZg",
+        "update_date": "2025-01-01"
+      }
+    ],
+    "disableNativeAds": [
+      {
+        "token": "ZmYxMTExMThmOTA1NDlhZg",
+        "update_date": "2025-01-01"
+      }
+    ]
   }
 }
